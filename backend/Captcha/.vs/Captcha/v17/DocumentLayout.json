@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|d:\\promact\\test\\captcha\\backend\\captcha\\captcha\\controllers\\googlecaptchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\controllers\\googlecaptchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|d:\\promact\\test\\captcha\\backend\\captcha\\captcha\\dtos\\recaptcharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\dtos\\recaptcharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|d:\\promact\\test\\captcha\\backend\\captcha\\captcha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecaptchaResponseDto.cs",
+              "DocumentMoniker": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Dtos\\RecaptchaResponseDto.cs",
+              "RelativeDocumentMoniker": "Captcha\\Dtos\\RecaptchaResponseDto.cs",
+              "ToolTip": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Dtos\\RecaptchaResponseDto.cs",
+              "RelativeToolTip": "Captcha\\Dtos\\RecaptchaResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:23:08.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleCaptchaController.cs",
+              "DocumentMoniker": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Controllers\\GoogleCaptchaController.cs",
+              "RelativeDocumentMoniker": "Captcha\\Controllers\\GoogleCaptchaController.cs",
+              "ToolTip": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Controllers\\GoogleCaptchaController.cs",
+              "RelativeToolTip": "Captcha\\Controllers\\GoogleCaptchaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:21:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Program.cs",
+              "RelativeDocumentMoniker": "Captcha\\Program.cs",
+              "ToolTip": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Program.cs",
+              "RelativeToolTip": "Captcha\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:20:06.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

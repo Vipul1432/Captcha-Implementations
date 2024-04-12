@@ -6,6 +6,7 @@ D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Captcha.runtime
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Captcha.dll
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Captcha.pdb
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -16,6 +17,7 @@ D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\Captcha.Assembl
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\Captcha.csproj.CoreCompileInputs.cache
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\Captcha.MvcApplicationPartsAssemblyInfo.cs
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\Captcha.MvcApplicationPartsAssemblyInfo.cache
+D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\Captcha.sourcelink.json
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\staticwebassets.build.json
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\staticwebassets.development.json
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\staticwebassets\msbuild.Captcha.Microsoft.AspNetCore.StaticWebAssets.props
@@ -30,4 +32,3 @@ D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\refint\Captcha.
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\Captcha.pdb
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\Captcha.genruntimeconfig.cache
 D:\Promact\Test\Captcha\backend\Captcha\Captcha\obj\Debug\net6.0\ref\Captcha.dll
-D:\Promact\Test\Captcha\backend\Captcha\Captcha\bin\Debug\net6.0\Newtonsoft.Json.dll

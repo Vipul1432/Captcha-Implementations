@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\controllers\\googlecaptchacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|d:\\promact\\test\\captcha\\backend\\captcha\\captcha\\dtos\\recaptcharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\dtos\\recaptcharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|d:\\promact\\test\\captcha\\backend\\captcha\\captcha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|d:\\promact\\test\\captcha\\backend\\captcha\\captcha\\dtos\\recaptchav3responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\dtos\\recaptchav3responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|d:\\promact\\test\\captcha\\backend\\captcha\\captcha\\dtos\\recaptcharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEFEF30-4C57-469B-A95A-54C9CF950D72}|Captcha\\Captcha.csproj|solutionrelative:captcha\\dtos\\recaptcharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Recaptchav3ResponseDto.cs",
+              "DocumentMoniker": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Dtos\\Recaptchav3ResponseDto.cs",
+              "RelativeDocumentMoniker": "Captcha\\Dtos\\Recaptchav3ResponseDto.cs",
+              "ToolTip": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Dtos\\Recaptchav3ResponseDto.cs",
+              "RelativeToolTip": "Captcha\\Dtos\\Recaptchav3ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:06:01.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RecaptchaResponseDto.cs",
               "DocumentMoniker": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Dtos\\RecaptchaResponseDto.cs",
               "RelativeDocumentMoniker": "Captcha\\Dtos\\RecaptchaResponseDto.cs",
@@ -34,8 +51,7 @@
               "RelativeToolTip": "Captcha\\Dtos\\RecaptchaResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T09:23:08.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T09:23:08.347Z"
             },
             {
               "$type": "Document",
@@ -45,20 +61,20 @@
               "RelativeDocumentMoniker": "Captcha\\Controllers\\GoogleCaptchaController.cs",
               "ToolTip": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Controllers\\GoogleCaptchaController.cs",
               "RelativeToolTip": "Captcha\\Controllers\\GoogleCaptchaController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAABFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T09:21:16.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Program.cs",
               "RelativeDocumentMoniker": "Captcha\\Program.cs",
               "ToolTip": "D:\\Promact\\Test\\Captcha\\backend\\Captcha\\Captcha\\Program.cs",
               "RelativeToolTip": "Captcha\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T09:20:06.431Z",
               "EditorCaption": ""

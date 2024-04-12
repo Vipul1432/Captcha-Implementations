@@ -1,23 +1,2 @@
 <app-navbar></app-navbar>
-<div class="container-fluid py-3">
-  <h3 class="text-center">Google reCAPTCHA v2</h3>
-
-  <form #form="ngForm">
-    <div class="row mt-3">
-      <div class="col-sm-12 mb-2">
-        <re-captcha id="recaptcha" name="recaptcha" #recaptcha="ngModel" [(ngModel)]="token" required
-          [class.is-invalid]="recaptcha.invalid && (recaptcha.dirty || recaptcha.touched)"></re-captcha>
-        <div *ngIf="recaptcha.invalid && (recaptcha.dirty || recaptcha.touched)" class="invalid-feedback">
-          <div *ngIf="recaptcha.errors?.['required']" style="color: red;">This field is required.</div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12 mb-2">
-        <button type="button" class="btn btn-sm btn-primary" (click)="send(form)">Send</button>
-      </div>
-    </div>
-  </form>
-</div>
-
 <router-outlet></router-outlet>

@@ -9,12 +9,17 @@ import { HttpClientModule } from '@angular/common/http';
 import { CaptchaService } from '../services/captcha.service';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ReCaptchav3Component } from './re-captchav3/re-captchav3.component';
+import { TextBasedCaptchaComponent } from './text-based-captcha/text-based-captcha.component';
+import {NgxCaptchaModule} from  '@binssoft/ngx-captcha';
+import { ReCaptchav2Component } from './re-captchav2/re-captchav2.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    ReCaptchav3Component
+    ReCaptchav3Component,
+    TextBasedCaptchaComponent,
+    ReCaptchav2Component
   ],
   imports: [
     BrowserModule,
@@ -25,6 +30,7 @@ import { ReCaptchav3Component } from './re-captchav3/re-captchav3.component';
     RecaptchaFormsModule,
     RecaptchaV3Module,
     ReactiveFormsModule,
+    NgxCaptchaModule
   ],
   providers: [
     CaptchaService,

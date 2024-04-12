@@ -20,7 +20,7 @@ namespace Captcha.Controllers
         [HttpPost("verify-recaptcha-v2")]
         public async Task<IActionResult> VerifyRecaptcha([FromQuery]string token)
         {
-            var secretKey = "6Lfz3LcpAAAAABwwxHLxVj6DfxOgAuoVw5xtgTk1";
+            var secretKey = "";
             var client = _clientFactory.CreateClient();
 
             var response = await client.GetAsync($"https://www.google.com/recaptcha/api/siteverify?secret={secretKey}&response={token}");
@@ -29,6 +29,34 @@ namespace Captcha.Controllers
                 var content = await response.Content.ReadAsStringAsync();
                 var result = JsonConvert.DeserializeObject<RecaptchaResponseDto>(content);
                 if (result.Success)
+                {
+                    // Recaptcha verification successful
+                    return Ok();
+                }
+            }
+
+            // Recaptcha verification failed
+            return BadRequest("Failed to verify reCAPTCHA token.");
+        }
+        [HttpPost("verify-recaptcha-v3")]
+        public async Task<IActionResult> VerifyRecaptchav3([FromQuery] string token)
+        {
+            var secretKey = "";
+            var client = _clientFactory.CreateClient();
+
+            var parameters = new Dictionary<string, string>
+            {
+                { "secret", secretKey },
+                { "response", token }
+            };
+            var encodedContent = new FormUrlEncodedContent(parameters);
+
+            var response = await client.PostAsync("https://www.google.com/recaptcha/api/siteverify", encodedContent);
+            if (response.IsSuccessStatusCode)
+            {
+                var content = await response.Content.ReadAsStringAsync();
+                var result = JsonConvert.DeserializeObject<Recaptchav3ResponseDto>(content);
+                if (result.Score >= 0.5m)
                 {
                     // Recaptcha verification successful
                     return Ok();
